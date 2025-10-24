@@ -112,3 +112,4 @@ signed main(){
             cout << path(x, y) << ' ';
         }
     }
+}
